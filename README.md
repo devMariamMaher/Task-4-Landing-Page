@@ -8,7 +8,7 @@ interactive UI components.
 ---
 
 ## 🔗 Live Demo: 
-https://devmariammaher.github.io/Task-4-Landing-Page/
+ https://devmariammaher.github.io/Task-4-Landing-Page/
 
 ---
 
